@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">- Student of the Information Technology course at UFRN - IMD.<br>- Actually, is a trainee at the Federal Police.<br>- Learning Next.js and Express.js.</p>
+<p align="left">- Student of the Information Technology course at UFRN - IMD.<br>- Currently, is a trainee at the Federal Police.<br>- Learning Next.js and Express.js.</p>
 
 ###
 
